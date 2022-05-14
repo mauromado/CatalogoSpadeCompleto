@@ -13,11 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/sqlite-jdbc-3.27.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.16-bin.jar"/>
 	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="lib/sqlite-dialect-1.0.jar"/>
 	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.36.0.3.jar"/>
-	<classpathentry kind="lib" path="webapp/WEB-INF/lib/sqlite-jdbc-3.27.2.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

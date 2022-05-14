@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class DbConnection {
 	private Connection connection;
 	private static String projectLocation = System.getenv("PROJECT_LOC");
-	private static String dbName = "CatalogoSpade.db";
+	private static String dbName = "CatalogoSpadeCompleto.db";
 	
 	private Connection connect() {
 		try {
